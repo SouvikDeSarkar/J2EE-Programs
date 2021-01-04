@@ -1,2 +1,2 @@
-# J2SE-J2EE-Programs
-My all J2SE programs are present
+# J2EE-Programs
+My all J2EE programs are present
